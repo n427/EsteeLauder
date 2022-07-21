@@ -61,6 +61,12 @@ class ViewController: UIViewController {
     @IBAction func prepareForUnwind(segue: UIStoryboardSegue) {
 
     }
+    @IBAction func prepareForUnwind2(segue: UIStoryboardSegue) {
+
+    }
+    @IBAction func prepareForUnwind3(segue: UIStoryboardSegue) {
+
+    }
 
 
 }

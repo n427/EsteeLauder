@@ -13,6 +13,9 @@
 		BB3492B22884707F00194683 /* serumQuizOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB3492B12884707F00194683 /* serumQuizOneViewController.swift */; };
 		BB3492B428848A2C00194683 /* serumQuizTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB3492B328848A2C00194683 /* serumQuizTwoViewController.swift */; };
 		BB3492B62884917C00194683 /* serumQuizThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB3492B52884917C00194683 /* serumQuizThreeViewController.swift */; };
+		BBBF08602887D7B30076911E /* makeupQuizOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBBF085F2887D7B30076911E /* makeupQuizOneViewController.swift */; };
+		BBBF08622887D7C50076911E /* makeupQuizTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBBF08612887D7C50076911E /* makeupQuizTwoViewController.swift */; };
+		BBBF08642887D7D80076911E /* makeupQuizThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBBF08632887D7D80076911E /* makeupQuizThreeViewController.swift */; };
 		BBD02BDF2881DE3B003477A8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD02BDE2881DE3B003477A8 /* AppDelegate.swift */; };
 		BBD02BE12881DE3B003477A8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD02BE02881DE3B003477A8 /* SceneDelegate.swift */; };
 		BBD02BE32881DE3B003477A8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD02BE22881DE3B003477A8 /* ViewController.swift */; };
@@ -51,6 +54,9 @@
 		BB3492B12884707F00194683 /* serumQuizOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = serumQuizOneViewController.swift; sourceTree = "<group>"; };
 		BB3492B328848A2C00194683 /* serumQuizTwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = serumQuizTwoViewController.swift; sourceTree = "<group>"; };
 		BB3492B52884917C00194683 /* serumQuizThreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = serumQuizThreeViewController.swift; sourceTree = "<group>"; };
+		BBBF085F2887D7B30076911E /* makeupQuizOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeupQuizOneViewController.swift; sourceTree = "<group>"; };
+		BBBF08612887D7C50076911E /* makeupQuizTwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeupQuizTwoViewController.swift; sourceTree = "<group>"; };
+		BBBF08632887D7D80076911E /* makeupQuizThreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeupQuizThreeViewController.swift; sourceTree = "<group>"; };
 		BBD02BDB2881DE3B003477A8 /* EsteeLauder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EsteeLauder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBD02BDE2881DE3B003477A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BBD02BE02881DE3B003477A8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -119,6 +125,9 @@
 			children = (
 				BBD02BDE2881DE3B003477A8 /* AppDelegate.swift */,
 				BBD02BE02881DE3B003477A8 /* SceneDelegate.swift */,
+				BBBF085F2887D7B30076911E /* makeupQuizOneViewController.swift */,
+				BBBF08612887D7C50076911E /* makeupQuizTwoViewController.swift */,
+				BBBF08632887D7D80076911E /* makeupQuizThreeViewController.swift */,
 				BBD02BE22881DE3B003477A8 /* ViewController.swift */,
 				BB3492AD2883CD4600194683 /* makeupViewController.swift */,
 				BB3492AB2883AFA900194683 /* creamViewController.swift */,
@@ -286,11 +295,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				BBD10DD128871FA900DA0836 /* creamQuizOneViewController.swift in Sources */,
+				BBBF08602887D7B30076911E /* makeupQuizOneViewController.swift in Sources */,
 				BBD02BE32881DE3B003477A8 /* ViewController.swift in Sources */,
 				BBD10DD328871FB800DA0836 /* creamQuizTwoViewController.swift in Sources */,
 				BB3492AC2883AFAA00194683 /* creamViewController.swift in Sources */,
+				BBBF08642887D7D80076911E /* makeupQuizThreeViewController.swift in Sources */,
 				BB3492B428848A2C00194683 /* serumQuizTwoViewController.swift in Sources */,
 				BBD10DD528871FC900DA0836 /* creamQuizThreeViewController.swift in Sources */,
+				BBBF08622887D7C50076911E /* makeupQuizTwoViewController.swift in Sources */,
 				BB3492B62884917C00194683 /* serumQuizThreeViewController.swift in Sources */,
 				BBD02BDF2881DE3B003477A8 /* AppDelegate.swift in Sources */,
 				BBD02BE12881DE3B003477A8 /* SceneDelegate.swift in Sources */,
